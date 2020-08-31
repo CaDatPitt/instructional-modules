@@ -1,2 +1,2 @@
 # instructional-modules
-materials for and artifacts from instructional modules
+Materials for and artifacts from CaD@Pitt instructional modules
